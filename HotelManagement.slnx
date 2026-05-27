@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HotelManagement.API/HotelManagement.API.csproj" />
+  <Project Path="HotelManagement.MVC/HotelManagement.MVC.csproj" />
+  <Project Path="HotelManagement.Tests/HotelManagement.Tests.csproj" />
+</Solution>
